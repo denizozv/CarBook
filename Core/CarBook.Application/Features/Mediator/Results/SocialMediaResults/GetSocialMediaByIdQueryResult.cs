@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CarBook.Application.Features.Mediator.Results.SocialMediaResults
-{
+{ //byIdQueryResult
     public class GetSocialMediaByIdQueryResult
     {
         public int SocialMediaID { get; set; }
